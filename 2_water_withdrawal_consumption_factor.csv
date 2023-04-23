@@ -1,0 +1,50 @@
+Country,Water Withdrawal Factor (gal/kWh),Water Consumption Factor (gal/kWh)
+Argentina,341,3.03
+Australia,41,1.25
+Austria,3737,1.51
+Belgium,164,0.69
+Brazil,236,4.91
+Bulgaria,100,1.22
+Canada,753,2.16
+Chile,121,2.78
+China,160,1.59
+Cyprus,15,0.34
+Czech Republic,209,0.85
+Denmark,363,0.84
+Estonia,202,0.58
+Finland,571,1.20
+France,651,0.97
+Germany,375,0.51
+Great Britain,44,0.62
+Greece,137,1.36
+Hungary,403,0.97
+Iceland,247,1.62
+India,627,0.91
+Indonesia,424,0.60
+Ireland,56,0.39
+Italy,931,1.28
+Japan,490,0.61
+Latvia,1988,0.67
+Lithuania,806,1.56
+Luxembourg,368,3.38
+Malaysia,653,0.44
+Malta,23,0.30
+Mexico,124,1.40
+Netherlands,184,0.91
+New Zealand,460,3.95
+Norway,2189,1.76
+Poland,57,0.66
+Portugal,389,2.53
+Romania,120,1.94
+Russia,546,0.91
+Slovakia,273,1.53
+Slovenia,3912,0.79
+South Korea,68,0.50
+Spain,78,1.64
+Sweden,998,1.59
+Switzerland,2201,1.50
+Taiwan,123,0.39
+Thailand,220,0.76
+Turkey,363,1.30
+Ukraine,249,0.56
+United States of America,102,0.83

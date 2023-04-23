@@ -1,0 +1,27 @@
+US eGRID Subregion,Water Withdrawal Factor (gal/kWh),Water Consumption Factor (gal/kWh)
+AKGD (ASCC Alaska Grid),150,0.90
+AKMS (ASCC Miscellaneous),824,4.06
+AZNM (WECC Southwest),184,1.31
+CAMX (WECC California),213,1.37
+ERCT (ERCOT All),9,0.34
+FRCC (FRCC All),12,0.39
+HIMS (HICC Miscellaneous),51,0.63
+HIOA (HICC Oahu),9,0.38
+MROE (MRO East),85,0.81
+MROW (MRO West),87,0.82
+NEWE (NPCC New England),200,1.09
+NWPP (WECC Northwest),474,2.51
+NYCW (NPCC NYC/Westchester),18,0.49
+NYLI (NPCC Long Island),16,0.43
+NYUP (NPCC Upstate NY),392,2.14
+RFCE (RFC East),37,0.61
+RFCM (RFC Michigan),44,0.66
+RFCW (RFC West),31,0.59
+RMPA (WECC Rockies),64,0.68
+SPNO (SPP North),13,0.46
+SPSO (SPP South),41,0.54
+SRMV (SERC Mississippi Valley),48,0.59
+SRMW (SERC Midwest),44,0.71
+SRSO (SERC South),46,0.61
+SRTV (SERC Tennessee Valley),104,0.96
+SRVC (SERC Virginia/Carolina),39,0.63
